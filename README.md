@@ -1,0 +1,3 @@
+This project is a group project app build designed to allow the user to view data related to worlds major soccer players and compare their country of origin and current club they play for. The data is from the EA Sports video game FIFA, which was thoroughly researched and found to be more than adequate in the method of how player ratings are calculated. The app displays a link on how this data is gathered and it's veracity.
+
+Contributors and roles: Tatsuya Sakurai - Player field ratings, Matthew Stewart - Player comparison chart, Seth Oliver - Map of player country of origins and ratings, Tai Johnson - HTML, CSS, server setup, project organization, final revisions, and variable conflict resolutions
